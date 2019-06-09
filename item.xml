@@ -1,0 +1,11 @@
+<Equipment>
+	<Equip id = "1" name = "Dagger" atk = "5" def = "0" price = "100"></Equip>
+	<Equip id = "2" name = "Long Sword" atk = "10" def = "0" price = "300"></Equip>
+	<Equip id = "3" name = "Spear" atk = "15" def = "0" price = "500"></Equip>
+	<Equip id = "4" name = "Axe"  atk = "18" def = "0" price = "800"></Equip>
+	<Equip id = "5" name = "Great Sword" atk = "25" def = "0" price = "1000"></Equip>
+	<Equip id = "6" name = "Clothes" atk = "0" def = "10" price = "200"></Equip>
+	<Equip id = "7" name = "Robe" atk = "0" def = "15" price = "300"></Equip>
+	<Equip id = "8" name = "Leather Armor" atk = "0" def = "25" price = "700"></Equip>
+	<Equip id = "9" name = "Iron Armor" atk = "0" def = "35" price = "1200"></Equip>
+</Equipment>

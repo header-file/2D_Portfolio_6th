@@ -1,0 +1,1 @@
+1, Dagger, 5, 0, 100, 2, Long Sword, 10, 0, 300, 3, Spear, 15, 0, 500, 4, Axe, 18, 0, 700, 5, Great Sword, 25, 0, 1000

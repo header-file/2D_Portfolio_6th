@@ -1,0 +1,1 @@
+0, 1, Dagger, 5, 0, 100, 2, Long Sword, 10, 0, 300, 3, Spear, 15, 0, 500, 4, Axe, 18, 0, 700, 5, Great Sword, 25, 0, 1000, 6, Clothes, 0, 10, 200, 7, Robe, 0, 15, 300, 8, Leather Armor, 0, 25, 700, 9, Iron Armor, 0, 35, 1200
